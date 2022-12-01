@@ -2,7 +2,9 @@
 
 Name : BHUVANESHWAR V
 
-Roll no : 212221240009
+Roll No: 212221240009
+
+Date of experiment : 30.09.2022
 
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
 
